@@ -1,0 +1,20 @@
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.config.alarm_alert=material_gentle.ogg
+ro.config.notification_sound=material_simple_1.ogg
+ro.config.ringtone=Kaleidoscope_Tune.ogg
+ro.control_privapp_permissions=log
+keyguard.no_require_sim=true
+ro.setupwizard.enterprise_mode=1
+ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html
+ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/privacy.html
+ro.support_one_handed_mode=true
+ro.charger.enable_suspend=true
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
