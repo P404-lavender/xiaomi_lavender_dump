@@ -1,0 +1,41 @@
+####################################
+# from device/xiaomi/lavender/product.prop
+####################################
+# Adaptive Display
+ro.qcom.ad=1
+ro.qcom.ad.calib.data=/system/etc/calib.cfg
+ro.qcom.ad.sensortype=2
+# Camera
+persist.bokeh.switch.lux=290
+persist.flash.low.lux=390
+persist.imx376_sunny.low.lux=310
+persist.imx376_sunny.light.lux=280
+persist.imx376_ofilm.low.lux=310
+persist.imx376_ofilm.light.lux=280
+ro.eyecare.brightness.threshold=3
+ro.eyecare.brightness.level=8
+ro.hist.brightness.threshold=5
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.apex.updatable=false
+ro.com.google.ime.bs_theme=true
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+ro.opa.eligible_device=true
+ro.setupwizard.enterprise_mode=1
+ro.setupwizard.esim_cid_ignore=00000001
+ro.setupwizard.rotation_locked=true
+setupwizard.feature.baseline_setupwizard_enabled=true
+setupwizard.feature.day_night_mode_enabled=true
+setupwizard.feature.portal_notification=true
+setupwizard.feature.show_pai_screen_in_main_flow.carrier1839=false
+setupwizard.feature.show_pixel_tos=true
+setupwizard.feature.show_support_link_in_deferred_setup=false
+setupwizard.feature.skip_button_use_mobile_data.carrier1839=true
+setupwizard.theme=glif_v3_light
+# end of file
