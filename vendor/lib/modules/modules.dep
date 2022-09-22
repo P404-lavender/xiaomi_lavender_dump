@@ -1,0 +1,2 @@
+/vendor/lib/modules/msm_rng.ko: /vendor/lib/modules/rng-core.ko
+/vendor/lib/modules/rng-core.ko:
