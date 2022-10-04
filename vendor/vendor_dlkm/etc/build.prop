@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Xiaomi
+ro.product.vendor_dlkm.device=lavender
+ro.product.vendor_dlkm.manufacturer=Xiaomi
+ro.product.vendor_dlkm.model=Redmi Note 7
+ro.product.vendor_dlkm.name=lineage_lavender
+ro.vendor_dlkm.build.date=Sat Oct  1 09:52:33 UTC 2022
+ro.vendor_dlkm.build.date.utc=1664617953
+ro.vendor_dlkm.build.fingerprint=Xiaomi/lineage_lavender/lavender:13/TP1A.220905.004.A2/a10011522:user/release-keys
+ro.vendor_dlkm.build.id=TP1A.220905.004.A2
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=eng.a.20221001.152235
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=33
+# end of file
+
