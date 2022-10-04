@@ -1,0 +1,43 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=Xiaomi
+ro.product.system_ext.device=lavender
+ro.product.system_ext.manufacturer=Xiaomi
+ro.product.system_ext.model=Redmi Note 7
+ro.product.system_ext.name=lineage_lavender
+ro.system_ext.build.date=Sat Oct  1 09:40:51 UTC 2022
+ro.system_ext.build.date.utc=1664617251
+ro.system_ext.build.fingerprint=Xiaomi/lineage_lavender/lavender:13/TP1A.220905.004.A2/a10011510:user/release-keys
+ro.system_ext.build.id=TP1A.220905.004.A2
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=eng.a.20221001.150856
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from device/xiaomi/sdm660-common/system_ext.prop
+####################################
+# Bluetooth
+bluetooth.device.class_of_device=90,2,12
+bluetooth.profile.a2dp.source.enabled=true
+bluetooth.profile.asha.central.enabled=true
+bluetooth.profile.avrcp.target.enabled=true
+bluetooth.profile.bas.client.enabled=true
+bluetooth.profile.gatt.enabled=true
+bluetooth.profile.hfp.ag.enabled=true
+bluetooth.profile.hid.device.enabled=true
+bluetooth.profile.hid.host.enabled=true
+bluetooth.profile.map.server.enabled=true
+bluetooth.profile.opp.enabled=true
+bluetooth.profile.pan.nap.enabled=true
+bluetooth.profile.pan.panu.enabled=true
+bluetooth.profile.pbap.server.enabled=true
+bluetooth.profile.sap.server.enabled=true
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+# end of file
+
