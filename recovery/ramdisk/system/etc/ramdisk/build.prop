@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Xiaomi
+ro.product.bootimage.device=lavender
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=Redmi Note 7
+ro.product.bootimage.name=awaken_lavender
+ro.bootimage.build.date=Wed Jan 25 07:09:43 UTC 2023
+ro.bootimage.build.date.utc=1674630583
+ro.bootimage.build.fingerprint=Xiaomi/awaken_lavender/lavender:13/TQ1A.230105.002/nobody01250709:user/release-keys
+ro.bootimage.build.id=TQ1A.230105.002
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=1674630678
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file
