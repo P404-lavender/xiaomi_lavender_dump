@@ -1,0 +1,25 @@
+####################################
+# from device/xiaomi/sdm660-common/product.prop
+####################################
+# Charger
+ro.charger.disable_init_blank=true
+ro.charger.enable_suspend=true
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+dalvik.vm.systemservercompilerfilter=speed-profile
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural;com.google.android.systemui.gxoverlay
+ro.com.google.ime.kb_pad_port_l=4
+ro.com.google.ime.kb_pad_port_r=4
+ro.com.google.ime.kb_pad_land_l=64
+ro.com.google.ime.kb_pad_land_r=64
+persist.sys.disable_rescue=true
+ro.config.notification_sound=Argon.ogg
+ro.config.alarm_alert=Hassium.ogg
+ro.support_one_handed_mode=true
+ro.config.ringtone=Orion.ogg
+# end of file
