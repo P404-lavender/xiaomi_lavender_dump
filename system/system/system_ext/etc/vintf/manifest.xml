@@ -1,0 +1,14 @@
+<!--
+    Input:
+        system_ext_manifest.default.xml
+        atcmdfwd-saidl.xml
+-->
+<manifest version="5.0" type="framework">
+    <hal format="aidl">
+        <name>vendor.qti.hardware.radio.atcmdfwd</name>
+        <fqname>IAtCmdFwd/AtCmdFwdAidl</fqname>
+    </hal>
+    <vendor-ndk>
+        <version>33</version>
+    </vendor-ndk>
+</manifest>
